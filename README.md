@@ -1,1 +1,1 @@
-# MoGrad-WebAplikacija
+# MojGrad-WebAplikacija
